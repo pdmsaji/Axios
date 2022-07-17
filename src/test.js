@@ -4,7 +4,7 @@ import React from 'react'
 function test() {
     return (
         <div>
-            <h1>Test</h1>
+            <h1>New Axios File</h1>
             
         </div>
     )
